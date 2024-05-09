@@ -31,4 +31,6 @@ The dashboard addresses the following key performance indicators (KPIs) related 
 * Company-Wise Sales Trend in Grid Form: Tabular grid displaying the sales trend for each company, along with their YTD sales figures.
 * Details Grid Showing All Car Sales Information: Detailed grid presenting all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc.
 
+![Sales data-1](https://github.com/Tazibava/Sales-Analysis/assets/166983934/6e80b440-cd3d-4975-86f0-dfdd86bc9a31)
+![Sales Data-2](https://github.com/Tazibava/Sales-Analysis/assets/166983934/ea26e830-a37e-4a7b-aeaf-7c236ca7d2c2)
 
